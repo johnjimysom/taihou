@@ -1,0 +1,22 @@
+Reference Sheet - Johnjimy Som
+Created: 06/01/2021
+Ones that are marked "*" next to the title means it has been read.
+Links are optional.
+-------------------------------------------------------------------
+To open a PDF in terminal example:
+"start tc21-tc26-a10-prg-en.pdf"
+
+-------------------------------------------------------------------
+
+How to copy paste in GNU nano?
+Copy/Paste/Cut Text in Nano
+To copy the marked text press Alt + ^.
+To cut the marked text press ^K (Ctrl +K).
+To paste the marked text, move the cursor to a suitable position and press ^U (Ctrl + U).
+-------------------------------------------------------------------
+
+https://techdocs.zebra.com/dcs/scanners/  - Barcode scanner tools android development tools.
+
+https://www.youtube.com/watch?v=kLI6nKGzGwU  - Zebra Scanner SDK for Android: Programming Basics
+
+
