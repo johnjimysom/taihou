@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=kLI6nKGzGwU  - Zebra Scanner SDK for Android: Pr
 
 https://m.apkpure.com/scandemo-requires-zebra-technologies-device/com.zebra.scandemo -apk for scanning
 
+https://stackoverflow.com/questions/11341931/how-to-create-a-csv-on-android - creating a csv on android tutorial
+
 https://sourceforge.net/projects/opencsv/files/latest/download - open csv.jar
 
 https://github.com/darryncampbell/DataWedgeKotlin - A better DataWedge to use for test
