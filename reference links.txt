@@ -22,3 +22,5 @@ https://techdocs.zebra.com/dcs/scanners/  - Barcode scanner tools android develo
 https://www.youtube.com/watch?v=kLI6nKGzGwU  - Zebra Scanner SDK for Android: Programming Basics
 
 https://m.apkpure.com/scandemo-requires-zebra-technologies-device/com.zebra.scandemo -apk for scanning
+
+https://sourceforge.net/projects/opencsv/files/latest/download - open csv.jar
