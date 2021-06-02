@@ -1,5 +1,5 @@
 # taihou
-Python related
+Python and Android Development
 
 no notes from work related due to NDA
 
