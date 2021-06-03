@@ -58,6 +58,20 @@ Danke,
 The cool guys
 
 '''
-print(course)
-print(course2)
-print(course3)
+print(course +' :[course]')
+print(course2 +' :[course2]')
+print('[course3]:' + course3)
+
+#to use array or call from an array..
+print('starting from the variable course[0] to [3] goes to: '+ course[0:3])
+print('starting from the variable course[1:] to goes to the end: '+ course[1:])
+print('starting from the variable course[:5] to goes to the end: '+ course[:5])
+print('starting from the variable course[0] the course[4] goes to: '+ course[4])
+print('starting from the variable course[0] the course[-1] goes to the end of the sentence: '+ course[-1])
+another = course[:]
+print('course[:] clones a string: '+ course[:])
+
+name2 = "Johnjimy"
+print('name2[1:-1] omits the first letter J and -1 omits the y: '+name2[1:-1])
+
+#lets look at formatted Strings
