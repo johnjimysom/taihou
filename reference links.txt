@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=VDAwbgHoYEA - Creating a CSV in Android Studio
 5. Save this data internally to a CSV file
 6. Make an intent that takes the file and exports it
 =================================================================
+
+Orca Scanning and set the controls on data wedge to read 10 ms and basic controls (last part of the settings) have ENTER
+enabled.
