@@ -28,3 +28,14 @@ https://stackoverflow.com/questions/11341931/how-to-create-a-csv-on-android - cr
 https://sourceforge.net/projects/opencsv/files/latest/download - open csv.jar
 
 https://github.com/darryncampbell/DataWedgeKotlin - A better DataWedge to use for test
+
+==================================================================
+https://www.youtube.com/watch?v=VDAwbgHoYEA - Creating a CSV in Android Studio
+-Steps:
+1. Add a button that will call a method when clicked
+2. Inside xml directory in res, create provider_paths.xml and put in appropriate code (from video)
+3. Add this path to the AndroidManifest.xml file using the provider tag
+4. Generate (or collect) data in MainActivity.java
+5. Save this data internally to a CSV file
+6. Make an intent that takes the file and exports it
+=================================================================
