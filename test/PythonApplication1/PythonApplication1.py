@@ -46,3 +46,18 @@ print(age)
 weight_lbs = input('Weight (lbs): ')
 weight_kg = int(weight_lbs) * 0.45
 print(weight_kg)
+
+course = "Python's hair is a cool in Girl's Frontline"
+course2 = 'Python is a cool in "GFL"'
+course3 = '''
+Hi John,
+
+Herr ist sie email du dich,
+
+Danke,
+The cool guys
+
+'''
+print(course)
+print(course2)
+print(course3)
