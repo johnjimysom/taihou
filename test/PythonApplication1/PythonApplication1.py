@@ -9,7 +9,7 @@ numbers_set = {5, 5, 10, 1, 0}
 numbers_tuple_sorted = sorted(numbers_tuple)
 numbers_set_sorted = sorted(numbers_set)
 print(numbers_tuple_sorted)
-print(numbers_set_sorted)
+print(numbers_set_sorted) 
 
 
 b = {12,33,33,22,14,545}
@@ -31,5 +31,18 @@ sorted(different_lengths)
 print(different_lengths)
 
 name = input('who are you? ')
-hero_name= input('who is your favorite hero? ')
-print('hello ' + name + ' your favorite hero name is ' + hero_name)
+hero_name= input('who is your favorite heroic servant in FGO? ')
+print('hello ' + name + ' your favorite heroic servant is ' + hero_name)
+
+birth_year = input('birth year: ')
+print(type(birth_year))
+int(birth_year)
+age = 2021 - int(birth_year)
+print(type(age))
+print(age)
+
+#ask a user their weight (in pounds), convert it to kilograms and print on the terminal
+
+weight_lbs = input('Weight (lbs): ')
+weight_kg = int(weight_lbs) * 0.45
+print(weight_kg)
