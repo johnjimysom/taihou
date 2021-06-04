@@ -1,6 +1,6 @@
 # taihou
 Python and Android Development
 
-no notes from work related due to NDA
+Please ask before using.
 
 created: 6/2/2021
