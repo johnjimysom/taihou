@@ -74,4 +74,6 @@ print('course[:] clones a string: '+ course[:])
 name2 = "Johnjimy"
 print('name2[1:-1] omits the first letter J and -1 omits the y: '+name2[1:-1])
 
+
+
 #lets look at formatted Strings
