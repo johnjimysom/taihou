@@ -42,3 +42,5 @@ https://www.youtube.com/watch?v=VDAwbgHoYEA - Creating a CSV in Android Studio
 
 Orca Scanning and set the controls on data wedge to read 10 ms and basic controls (last part of the settings) have ENTER
 enabled.
+
+https://c-for-dummies.com/blog/?p=1000 - ASCII Programming in C
