@@ -48,3 +48,7 @@ https://www.youtube.com/watch?v=wWUW3WTMhBM - Microsoft Access Customer Database
 https://c-for-dummies.com/blog/?p=1000 - ASCII Programming in C
 
 https://www.youtube.com/watch?v=1DvTwuByjo0 - System administration complete course from beginner to advanced | IT administrator full course
+
+http://mally.stanford.edu/~sr/computing/latex-example.html - LaTex Stanford.edu sample /latex-example.html [us]
+
+https://guides.nyu.edu/LaTeX/sample-document - LaTex Example
