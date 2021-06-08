@@ -52,3 +52,5 @@ https://www.youtube.com/watch?v=1DvTwuByjo0 - System administration complete cou
 http://mally.stanford.edu/~sr/computing/latex-example.html - LaTex Stanford.edu sample /latex-example.html [us]
 
 https://guides.nyu.edu/LaTeX/sample-document - LaTex Example
+
+https://texblog.org/2011/06/11/latex-syntax-highlighting-examples/ - LaTex examples how to create author and etc.
