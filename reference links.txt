@@ -56,3 +56,5 @@ https://guides.nyu.edu/LaTeX/sample-document - LaTex Example
 https://texblog.org/2011/06/11/latex-syntax-highlighting-examples/ - LaTex examples how to create author and etc.
 
 https://www.gormanalysis.com/blog/reading-and-writing-csv-files-with-cpp/#reading-from-csv -tutorial read and write
+
+https://www.boost.org/doc/libs/1_35_0/libs/spirit/example/fundamental/list_parser.cpp -csv parser
