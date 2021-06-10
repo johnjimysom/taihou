@@ -58,3 +58,5 @@ https://texblog.org/2011/06/11/latex-syntax-highlighting-examples/ - LaTex examp
 https://www.gormanalysis.com/blog/reading-and-writing-csv-files-with-cpp/#reading-from-csv -tutorial read and write
 
 https://www.boost.org/doc/libs/1_35_0/libs/spirit/example/fundamental/list_parser.cpp -csv parser
+
+https://www.youtube.com/watch?v=PBqWb5VI2L8 - how to read in file video tutorial how to read a text in C++
