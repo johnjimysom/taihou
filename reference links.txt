@@ -62,3 +62,5 @@ https://www.boost.org/doc/libs/1_35_0/libs/spirit/example/fundamental/list_parse
 https://www.youtube.com/watch?v=PBqWb5VI2L8 - how to read in file video tutorial how to read a text in C++
 
 https://www.youtube.com/watch?v=-EPMOaV7h_Q - MSSQL tut for beginners apparently..
+
+https://www.youtube.com/watch?v=13sUqPWdYHU - Custom SQL for acumatica
