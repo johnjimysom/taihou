@@ -64,3 +64,9 @@ https://www.youtube.com/watch?v=PBqWb5VI2L8 - how to read in file video tutorial
 https://www.youtube.com/watch?v=-EPMOaV7h_Q - MSSQL tut for beginners apparently..
 
 https://www.youtube.com/watch?v=13sUqPWdYHU - Custom SQL for acumatica
+
+https://www.youtube.com/watch?v=pdFhr1ixQrk - Visual Basic How to load a datatable from a csv file
+
+https://www.youtube.com/watch?v=q7gdNp_3FZQ - watch first (read csv from visual basic)
+
+https://www.youtube.com/watch?v=8x-HBUJhuas - Load Data into DataGridView from SQL (optional)
