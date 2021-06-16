@@ -72,3 +72,7 @@ https://www.youtube.com/watch?v=q7gdNp_3FZQ - watch first (read csv from visual 
 https://www.youtube.com/watch?v=8x-HBUJhuas - Load Data into DataGridView from SQL (optional)
 
 https://www.youtube.com/watch?v=13sUqPWdYHU - adding custom sql view to acumatica
+
+https://techdocs.zebra.com/datawedge/7-6/guide/settings/ - ipadatawedge
+
+https://techdocs.zebra.com/datawedge/6-8/guide/output/ip/ - ipadatawedge
