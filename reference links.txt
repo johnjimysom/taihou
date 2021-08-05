@@ -78,3 +78,5 @@ https://techdocs.zebra.com/datawedge/7-6/guide/settings/ - ipadatawedge
 https://techdocs.zebra.com/datawedge/6-8/guide/output/ip/ - ipadatawedge
 
 https://openuni.acumatica.com/courses/reporting/i100-integration-scenarios/ - 21:32 time
+
+https://github.com/wsargent/docker-cheat-sheet#dockerfile -- docker cheat sheet
